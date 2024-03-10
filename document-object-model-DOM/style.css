@@ -1,0 +1,11 @@
+body {
+  background: rgb(58, 57, 57);
+}
+h1, div {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
+
+p {
+  color: blueviolet;
+}
